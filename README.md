@@ -7,5 +7,5 @@ CSV files with financial events
 
 Output:
 Financial states table per month (CSV)
-graphic view of the output file (Matplotlib)
+and graphic view of the output file (Matplotlib)
 
